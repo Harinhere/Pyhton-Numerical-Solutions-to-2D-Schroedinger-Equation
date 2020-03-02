@@ -8,6 +8,8 @@
 We solve for the bound states of a 2D potential by diganolizing the Hamiltonian. The basis functions are now
 the product functions of two independent harmonic oscillator wavefunctions (for x- and y- variables). Computation is similar to what we did in the 1D case : Diagonlaize the matrix
 
+<img src="https://latex.codecogs.com/svg.latex?<\phi_n(x)\phi_m(y)|H|\phi_{n'}(x)\phi_{m'}(y)>" title="<\phi_n(x)\phi_m(y)|H|\phi_{n'}(x)\phi_{m'}(y)>" />
+
 <\phi_n(x)\phi_m(y)|H|\phi_{n'}(x)\phi_{m'}(y)>
 
 Module: harmf.py contains the details of the basis
