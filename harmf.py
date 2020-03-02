@@ -1,5 +1,7 @@
 #define a function to compute the normalized Harmonic oscillator wavefunctions
 #size of the Harmonic function basis in each dimension
+#Author: Harindranath Ambalampitiya
+#Department of Physics and Astronomy, University of Nebraska-Lincoln
 import numpy as np
 from numpy import pi,sqrt
 import pot2D
