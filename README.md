@@ -10,7 +10,7 @@ the product functions of two independent harmonic oscillator wavefunctions (for 
 
 <img src="https://latex.codecogs.com/svg.latex?<\phi_n(x)\phi_m(y)|H|\phi_{n'}(x)\phi_{m'}(y)>" title="<\phi_n(x)\phi_m(y)|H|\phi_{n'}(x)\phi_{m'}(y)>" />
 
-<\phi_n(x)\phi_m(y)|H|\phi_{n'}(x)\phi_{m'}(y)>
+
 
 Module: harmf.py contains the details of the basis
 Module: pot2D.py contains the potential functions which can be modified by the user
