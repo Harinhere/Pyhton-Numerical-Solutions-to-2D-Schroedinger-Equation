@@ -1,4 +1,6 @@
 #Module for the 2D potential. Potential modes are:
+#Author: Harindranath Ambalampitiya
+#Department of Physics and Astronomy, University of Nebraska-Lincoln
 #1. 2D Harmonic oscillator 
 #2. 2D finite well
 #3. 2D Gaussian 
