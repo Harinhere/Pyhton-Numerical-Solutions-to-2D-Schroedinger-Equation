@@ -1,4 +1,6 @@
 #Bound states in 2D potentials
+#Author: Harindranath Ambalampitiya
+#Department of Physics and Astronomy, University of Nebraska-Lincoln
 import matplotlib.pyplot as plt
 from mpl_toolkits  import mplot3d
 import numpy as np
